@@ -7,4 +7,7 @@ Console.WriteLine("5. TV");
 
 
 
+console.writeline("6.refrigerator");
 console.writeline("7.lamp");
+
+
